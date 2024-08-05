@@ -1,0 +1,26 @@
+#one{
+	width: 97%;height: 680px;
+	background-color: #0F0F12;
+	border: 5px solid ghostwhite;
+	margin: auto;
+	text-align: center;
+
+
+}
+
+body{
+	background-color:rgba(28, 28, 28, 1.0);     
+
+}
+
+.bb{
+	color: white;
+}
+
+.black{
+	color: black;
+}
+
+#nene{
+	color: white;
+}

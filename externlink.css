@@ -1,0 +1,167 @@
+a:link{
+	color:gray;
+	background-color: transparent;
+	text-decoration:none ;
+}
+
+a:visited{
+    color:gray;
+	background-color: transparent;
+	text-decoration:none ;
+}
+
+a:hover{
+	color:#ff9;
+	background-color:transparent;
+	text-decoration:underline;
+}
+
+a:active{
+	color: gray;
+	background-color:  transparent;
+	text-decoration: underline;
+}
+
+body{
+	background-color:rgba(28, 28, 28, 1.0); 
+
+
+}
+
+
+
+#two{
+	width: 97%;height: 600px;
+	background-color: #0F0F12;
+	border: 2px solid ghostwhite;
+	margin: auto;
+	text-align: center;
+
+
+}
+
+.nene{
+	color: #ff9;
+}
+
+.no{
+	color: white;
+}
+
+#four{
+	width:97%;height: 280px;
+	background-color: #0F0F12;
+	border: 1px solid ghostwhite;
+	margin: auto;
+	text-align: left;
+	color: white;
+
+}
+
+.another{
+	text-align: center;
+
+}
+
+
+.bacon {
+  width:25%;  
+  display:inline-block;
+  background-color:dimgray;
+  margin: 20px;
+  border: 3px solid black;
+  text-align: center;
+  color: white;
+
+
+
+}
+
+.banana {
+  width:30%;  
+  display:inline-block;
+  background-color:dimgray;
+    margin: 20px;
+    border: 3px solid black;
+text-align: center;
+  color: white;
+
+}
+
+
+.apple {
+  width:30%;  
+  display:inline-block;
+  background-color:dimgray;
+      margin: 20px;
+      border: 3px solid black;
+text-align: center;
+color: white;
+float: left;
+
+
+}
+
+
+.mytag1{
+	color: #ff9;
+}
+
+.idontknow{
+	width: 60%;height:200px;
+		margin: 10px;
+
+}
+
+
+.end{
+
+		width: 50%;height: 600px;
+	background-color: #0F0F12;
+	border: 2px solid ghostwhite;
+	margin: auto;
+	text-align: center;
+	color: white;
+}
+
+footer{
+	color: white;
+}
+
+/*La otra sección
+
+.mycontainer {
+  display: flex;
+  margin: auto;
+}
+.mycontainer > div {
+  width:400%;
+}
+
+*/
+
+table{
+
+	width: 90%;height: 100px;
+
+	border-collapse: collapse;
+	margin:auto;
+}
+
+th, td{
+
+		border-color: black;
+		border-style: dashed;
+		background-color: dimgrey;
+		
+		
+}
+
+.hi{
+	background-color: slategray;
+}
+
+
+header{
+	width:36%;
+}

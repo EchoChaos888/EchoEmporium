@@ -1,0 +1,152 @@
+
+
+header{
+
+	background-color: #b3ffe6;
+	border: 4px dashed  #996633;
+    margin-top: 50px;
+    height: 420px;
+
+	margin:auto;
+}
+
+
+img {
+	height: 200px;width: 200px;
+
+    }
+
+ body{
+ 	background-color: #bfbfbf;
+ }
+
+
+.divcontainer{
+  width:25%;  
+  display:inline-block;
+  margin: 20px;
+
+  text-align: center;
+  background-color:#b3ffe6;
+}
+
+
+
+.iknow{
+	margin-top: 130px;
+
+}
+
+
+
+
+.hi{
+
+	width: 60%;
+
+}
+
+.noseee{
+	float: right;
+	 width:32%;height: 350px;
+	 background-color:#b3ffe6;
+
+	border: 4px dashed  #996633;
+
+
+}
+
+
+*{
+	margin: 30px;
+}
+
+
+
+nav{
+
+	background-color: #b3ffe6;
+	border: 4px dashed  #996633;
+	text-align: center;
+
+}
+
+
+ol li{
+	list-style-type: none;
+}
+
+
+section{
+
+    width:45%;height: 350px; 
+    display:inline-block;
+    margin: 20px;
+
+    text-align: center;
+    background-color: #b3ffe6;
+	border: 4px dashed  #996633;
+
+     /*width:47%;height: 350px;
+	background-color: #ffb380;*/
+
+}
+
+
+aside{
+
+	width:45%;height: 350px;
+	background-color: #b3ffe6;
+	display: inline-block;
+	border: 4px dashed  #996633;
+	text-align: center;
+}
+
+
+footer{
+
+	background-color: #b3ffe6;
+	border: 4px dashed  #996633;
+	text-align: center;
+	 text-align: center;
+
+}
+
+
+h1, h2, h3, p, nav{
+
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+
+
+
+
+
+
+
+
+/* width:25%;  
+	background-color: #0F0F12;
+	border: 1px solid ghostwhite;
+	margin: auto;
+	text-align: left;
+	color: white;
+	display: grid;
+
+
+	.div1{
+	 width:25%;
+  display:inline-block;
+  background-color:dimgray;
+  margin-left: 670px;
+  border: 3px solid black;
+  text-align: center;
+  color: white;
+ 
+}
+
+*/
